@@ -1,25 +1,33 @@
-div{
-
-
+body {
+  margin: 0;
 }
 
-.hedaer {
+div{
+  float: left;
+}
 
+
+.header {
+ background-color: red;
+ width: 100%;
 }
 
 .navigation {
-
-}
-
-.sidebar {
-
+ background-color: orange;
+ width: 20%;
 }
 
 .main-content {
+ background-color: purple;
+ width: 50%;
+}
 
+.sidebar {
+ background-color: yellow;
+ width: 30%;
 }
 
 .footer {
-
-
+ background-color: pink;
+ width: 100%;
 }
